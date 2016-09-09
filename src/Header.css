@@ -1,0 +1,9 @@
+.Header {
+  background-color: rgba(163, 228, 215, 1);
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  color: rgba(72, 201, 176, 1);
+  font-family: 'Abril Fatface', cursive;
+  font-size: 30px;
+}

@@ -1,0 +1,15 @@
+.Content {
+  background-color: rgba(0, 0, 10, 0.1);
+  height: auto;
+  width: 80%;
+  margin: auto;
+  padding: 50px;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: left;
+
+
+
+}

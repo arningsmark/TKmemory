@@ -1,0 +1,9 @@
+.Card {
+  background-color: rgba(72, 201, 176, 1);
+  height: 200px;
+  width: 200px;
+  padding: 25px;
+  margin-right: 20px;
+  margin-bottom: 20px
+
+}
